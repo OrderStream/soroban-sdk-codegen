@@ -7,7 +7,7 @@ description = "Multi-language client SDK generator CLI for Stellar Soroban: gene
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/OrderStream/soroban-sdk-codegen"
 readme = "README.md"
-keywords = ["stellar", "soroban", "sdk", "codegen", "typescript", "python"]
+keywords = ["stellar", "soroban", "sdk", "codegen", "typescript"]
 
 [[bin]]
 name = "soroban-sdk-codegen"
